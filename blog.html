@@ -1,0 +1,19 @@
+---
+layout: application
+language: Swedish
+permalink: "/blog/index.html"
+---
+
+{% for post in site.posts limit:5 %}
+	<article>
+	    <header>
+	        <h2><a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
+	        <time class="entry-date" datetime="{{ post.created_at }}">
+	            <a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a>
+	        </time>
+	    </header>
+	    <div class="entry-content">
+			<p class="intro">{{ post.description | markdownify }}</p>
+	    </div>
+	</article>
+{% endfor %}

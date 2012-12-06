@@ -1,0 +1,7 @@
+_site/
+.DS_Store
+assets/sass/.sass-cache/*
+.sass-cache
+tmp
+crash.log
+logs/

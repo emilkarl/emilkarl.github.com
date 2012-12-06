@@ -1,0 +1,12 @@
+title: emilkarl.se
+description: This is my description
+markdown: rdiscount
+auto: true
+permalink: /:categories/:title/
+pygments: true
+lsi: false
+exclude:
+   - Rakefile
+   - github/build.rb
+   - github/config.ru
+   - logs
