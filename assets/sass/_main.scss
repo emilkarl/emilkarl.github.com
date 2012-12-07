@@ -1,22 +1,19 @@
 body {
-  background-color: #fff;
-  color: #452632;
+  background-color: $color-base-bg;
+  color: $color-base-text;
  }
  
  a {
-   color: #E4844A;
+   color: $color-link;
    text-decoration: none;
  }
  
  a:hover {
-   color: #E8BF56;
+   color: $color-link-hover;
  }
   
 h1, h2, h3 {
-  text-transform: uppercase;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-weight: 400;
-  color: #91204D;
+  color: $color-header;
   }
   
   ul {
@@ -34,7 +31,7 @@ h1, h2, h3 {
   #logo {
     margin: 0;
     padding: 0;
-    background-color: #E4844A;
+    background-color: $color-link;
     position: absolute;
     left: 10px;
     top: 10px;
@@ -48,6 +45,12 @@ h1, h2, h3 {
     margin: 0;
   }
   
+  article {
+    header, footer {
+      padding: 0;
+    }
+  }
+  
   #content {
     padding: 10px;
   }
@@ -55,6 +58,10 @@ h1, h2, h3 {
   nav li {
     text-align: center;
     text-transform: uppercase;
+  }
+  
+  li {
+    list-style-position: inside;
   }
   
 @media (min-width: 768px) {

@@ -1,0 +1,15 @@
+---
+layout: page
+title: "About"
+description: "About me"
+permalink: "/about/index.html"
+---
+
+I'm a climbing web developer living in Linkรถping, Sweden. When I'm not at the office or visiting a 
+client I like to climb the walls in the gym, mountain biking or watch the latest episode of _The Office_.
+
+I work as a web developer at [Noc Webbyrรฅ](http://nocweb.se). I do things like _Ruby on Rails_, _PHP_, _SQL_ and _HTML/CSS/JS_ and stuff in those areas. Even though I prefer working with *Ruby on Rails* I've done a number of projects in [Wordpress](http://wordpress.org) and [Drupal](http://drupal.org) during the last couple of years. 
+
+- [Flickr](http://www.flickr.com/photos/millow/)
+- [Twitter](http://twitter.com/#!/emilkarl)
+- [About.me](http://about.me/emilkarl)

@@ -5,7 +5,7 @@ created_at: 2012-07-11 19:45
 published: true
 layout: application
 language: Swedish
-categories : [article]
+categories : [article,climbing]
 ---
 
 # Alpinism i Chamonix 2012
