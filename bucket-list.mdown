@@ -1,0 +1,41 @@
+---
+layout: page
+title: "Bucket list"
+description: "Here is my bucket list inspired by myself and others. "
+permalink: "/bucket-list/index.html"
+---
+
+Here is my bucket list inspired by myself and others. 
+
+## Fitness & Training
+
+* Climb an 8A line
+* ~~Learn alpinism & summit a peak above 3000 meters~~ (July 2012 in Chamonix, France. Summitted 3 peaks above 3 500 meters in the Mont Blanc Massive. North and south summit of Pointse Lachenal and north summit of Aiguille de Tour)
+* Learn and practice Yoga at least twice a week
+* Run Björkliden Arctic Mountain Marathon (BAMM)
+
+## Travel
+
+* Go on a backpacking trip to Thailand
+* Deep water solo climbing in Thailand
+* Summit Mont Blanc without guide
+* Attend the Belgium Grand Prix F1 race at SPA
+* Watch El Clásico at Camp Nou (Barcelona FC - Real Madrid)
+* Have a beer at Oktoberfest in Münich, Germany
+* Freeski in the Alps
+* Go mountain biking in Scotland
+* Hike in Sarek, Sweden
+* Ride Downhill MTB in Åre, Sweden
+* Big wall climbing in Yosemite National Park
+* Have a cup of tea at Samovar Tea Lounge in San Francisco
+* Travel to a foreign country alone
+* Take an unplanned weekend trip to a european city
+
+## Things To do
+
+* Drive a racing car at a race track
+* Get a dog
+* Sell off my CD and DVD collection
+* Read a book for more than 30 minutes a day for a week
+* For one week, get up at least 2 hours before work
+* Skip alcohol for at least one month

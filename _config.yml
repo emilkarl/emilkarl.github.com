@@ -5,6 +5,7 @@ auto: true
 permalink: /:categories/:title/
 pygments: true
 lsi: false
+paginate: 5
 exclude:
    - Rakefile
    - github/build.rb

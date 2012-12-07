@@ -24,7 +24,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no">
   
   <link rel="stylesheet" type="text/css" media="all" href="/assets/css/normalize.css" />
-  <link rel="stylesheet" type="text/css" media="all" href="/assets/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="/assets/css/application.css" />
   <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700' rel='stylesheet' type='text/css'>
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -43,34 +43,32 @@
 </head>
 
 <body class="{% if page.categories != null %}{{ page.categories }}{% else %}front{% endif %}">
-
-  <header>
+  <div id="wrapper">
+    <header>
+    <figure id="logo"><a href="/">emilkarl</a></figure>
     <nav>
-      <ul>
-        <li class="logo"><a id="logo" href="/"><canvas id="logo-canvas" width="60" height="63"></canvas><img src="/assets/images/logo.png" alt="oe.is"></a></li>
-        <li class="skip-link"><a class="assistive-text" href="#content" title="Skip to  primary content">Skip to primary content</a></li>
-        <li class="tooltip about"><a class="icon-card" href="/about-me-and-this-site"><span>About me</span></a></li>
-        <li class="tooltip archive"><a class="icon-archive" href="/blog/archive"><span>Entire archive</span></a></li>
-        <!-- <li class="search">
-            <form class="icon-magnifying-glass"><input type="text" name="s" placeholder="The search ends here" value=""></form>
-        </li> -->
-      </ul>
+    <ul>
+    <li><a href="/about/">About me</a></li>
+    <li><a href="/bucket-list/">Bucket list</a></li>
+    <li><a href="/blog/archive/">Entire archive</a></li>
+    </ul>
     </nav>
-  </header>
-
-  <section class="content" id="content">
+    </header>
+  
+    <section class="content" id="content">
     {{ content }}
-  </section>
-
-  <footer>
+    </section>
+  
+    <footer>
     <div>
-      <div class="vcard inner">
-        <p><span class="fn">Emil Karlsson</span>, a Swedish web developer working at <a href="http://nocweb.se">Noc Webbyrå</a> in <span class="country-name">Sweden</span>.</p>
-        <p class="note">...</p>
-      </div>
+    <div class="vcard inner">
+    <p><span class="fn">Emil Karlsson</span>, a Swedish web developer working at <a href="http://nocweb.se">Noc Webbyrå</a> in <span class="country-name">Sweden</span>.</p>
+    <p class="note">...</p>
     </div>
-  </footer>
-
+    </div>
+    </footer>
+  </div>
+  
   <!--[if lt IE 7 ]>
     <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
     <script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
