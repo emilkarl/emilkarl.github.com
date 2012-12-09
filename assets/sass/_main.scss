@@ -6,6 +6,9 @@ body {
  a {
    color: $color-link;
    text-decoration: none;
+   -webkit-transition: color 100ms ease;
+   -moz-transition: color 100ms ease;
+   transition: color 100ms ease;
  }
  
  h1 {
@@ -208,6 +211,7 @@ h1, h2, h3 {
         z-index: 10;
         min-height: 50px;
         float: right;
+        opacity: 1;
         
         li {
           float: left;
