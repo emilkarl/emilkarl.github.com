@@ -177,9 +177,44 @@ h1, h2, h3 {
   }
 
 @media (min-width: 768px) {
+  /* Mobile */
+  .wrapper {
+    max-width: 768px;
+  }
   
-}
+  .hf-wrapper {
+    
+    header, footer {
+      max-width: 708px;
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+    
+    header {
+      
+      #logo {
+        left: 0;
+        float: left;
+        position: relative;
+        }
+      
+      nav {
+        min-height: 50px;
+        float: right;
+        
+        li {
+          float: left;
+          clear: none;
+          border-top: none;
+          line-height: 50px;
+          margin-left: 20px;
+          text-transform: capitalize;
+        }
+      }
+    }
+  }
   
-@media (min-width: 960px) {
-  
+  .nav-toggle {
+    display: none;
+  }
 }
