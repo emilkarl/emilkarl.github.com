@@ -5,7 +5,7 @@ created_at: 2012-12-07 19:45
 published: true
 layout: application
 language: English
-categories : [article,web,php]
+categories : [article, web, php]
 ---
 
 ### PHP Sample Code

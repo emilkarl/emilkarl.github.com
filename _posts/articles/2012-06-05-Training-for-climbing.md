@@ -5,7 +5,7 @@ created_at: 2012-12-07 19:45
 published: true
 layout: application
 language: English
-categories : [article,climbing]
+categories : [article, climbing]
 ---
 
 It’s not a secret that in to climbing. Recently I’ve been more interested in the exercise and training part of climbing and how I can improve. I started to read books in the subject both about climbing and mountaineering and also how to improve your skills as climber. Sometimes it seems like it’s all in the head and it is but not all the time. You have to prepare and work for t achieve your goals and even though a lot of it is in your mind your body has to be ready.

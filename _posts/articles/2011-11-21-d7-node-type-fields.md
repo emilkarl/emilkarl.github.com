@@ -5,7 +5,7 @@ created_at: 2011-11-21 19:45
 published: true
 layout: application
 language: English
-categories : [article,web,drupal]
+categories : [article, web, drupal]
 ---
 
 Have you ever wanted to get a list of all the fields, and it's definitions in Drupal? 

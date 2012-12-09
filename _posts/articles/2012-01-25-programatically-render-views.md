@@ -5,7 +5,7 @@ created_at: 2012-12-07 19:45
 published: true
 layout: application
 language: English
-categories : [article,web,drupal]
+categories : [article, web, drupal]
 ---
 
 Some time ago I was developing a project were I needed to programmatically render [Views](http://drupal.org/project/views) with an exposed form [Drupal 7](http://Drupal.org). I wanted to render the view with a hidden exposed form but skip that form and only use it to be able to render the view result but send in my own values for the filters. This article will show you how you can do it. Note that this is only an example and probably not the perfect use case for doing this with custom code.
