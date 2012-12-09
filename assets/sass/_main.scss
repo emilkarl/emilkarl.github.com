@@ -95,7 +95,7 @@ h1, h2, h3 {
   }
   
   #content {
-    padding: 10px;
+    padding: 10px 25px;
   }
   
   header {
@@ -163,10 +163,6 @@ h1, h2, h3 {
       text-align: center;
     }
   }
-
-#content {
-  overflow: hidden;
-} 
 
 @media (min-width: 768px) {
   
