@@ -1,7 +1,7 @@
 ---
 title: "Programmatically render Views with applied exposed form in Drupal 7"
 description: "Some time ago I was developing a project were I needed to programmatically render Views with an exposed form Drupal 7. I wanted to render the view with a hidden exposed form but skip that form and only use it to be able to render the view result but send in my own values for the filters. This article will show you how you can do it. Note that this is only an example and probably not the perfect use case for doing this with custom code."
-created_at: 2012-12-07 19:45
+created_at: 2012-01-25 19:45
 published: true
 layout: post
 language: English
