@@ -92,6 +92,12 @@ h1, h2, h3 {
     header, footer {
       padding: 0;
     }
+    
+    header {
+      .entry-date {
+        color: $color-link-light;
+      }
+    }
   }
   
   #content {
@@ -155,7 +161,13 @@ h1, h2, h3 {
       float: left;
     }
     
+    .next, .previous {
+      position: relative;
+      z-index: 100;
+    }
+    
     .pages {
+      z-index: 5;
       position: absolute;
       top: 0;
       left: 0;

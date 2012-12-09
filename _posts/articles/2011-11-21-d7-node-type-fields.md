@@ -3,14 +3,11 @@ title: "Taxonomy fields for content type"
 description: "Have you ever wanted to get a list of all the fields, and it's definitions in Drupal? I had this problem earlier today and was trying to get all taxonomy fields for a particular node type in Drupal 7. The problems was to _get a list of all the fields from a content type in Drupal 7 and select only the taxonomy references_?"
 created_at: 2011-11-21 19:45
 published: true
-layout: application
+layout: post
 language: English
 categories : [article, web, drupal]
 ---
 
-Have you ever wanted to get a list of all the fields, and it's definitions in Drupal? 
-I had this problem earlier today and was trying to get all taxonomy fields for a particular node type in Drupal 7.
-The problems was to _get a list of all the fields from a content type in Drupal 7 and select only the taxonomy references_?
 ## Basics
 
 ### Drupal 6

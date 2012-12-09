@@ -1,21 +1,19 @@
 ---
 layout: application
 ---
-
+<!-- !post -->
 {% if page.image != null %}
     <div class="image"><img src="{{ page.image }}"/></div>
 {% endif %}
+
 <article>
     <header>
         <h1><a title="Permalink to {{ page.title }}" rel="bookmark" href="{{ page.url }}">{{ page.title }}</a></h1>
-        <time class="entry-date" datetime="{{ page.created_at }}">
-            <a title="Permalink to {{ page.title }}" rel="bookmark" href="{{ page.url }}">{{ page.date | date: "%B %d, %Y" }}</a>
-        </time>
+        <time class="entry-date" datetime="{{ page.created_at }}">{{ page.created_at | date: "%B %d, %Y" }}</a></time>
     </header>
     <div class="entry-content">
         <div class="intro">{{ page.description | escape | markdownify }}</div>
         {{ content }}
-        <div id="disqus_show">Show comments for {{ page.title }} &raquo;</div>
-        <div id="disqus_thread"></div>
     </div>
 </article>
+<!-- /post -->

@@ -3,12 +3,10 @@ title: "Beautiful outdoor videos"
 description: "A while ago I watched an amazing video of some french dudes base jumping and walking a slackline between two mountain tops. It had a great feel to it and the light and colors in the video was great. The full length movie is called _I Believe I Can Fly_ and this was the trailer for it."
 created_at: 2011-12-28 19:45
 published: true
-layout: application
+layout: post
 language: English
 categories : [article, outdoor]
 ---
-
-A while ago I watched an amazing video of some french dudes base jumping and walking a slackline between two mountain tops. It had a great feel to it and the light and colors in the video was great. The full length movie is called _I Believe I Can Fly_ and this was the trailer for it.
 
 Today I did a little research and found that the filmers name is _Sebastien Montaz-Rosset_. Check out his [Vimeo channel](http://vimeo.com/chamonix) and his [website](http://www.sebmontaz.com/). A lot of beautiful videos captured in the alps! 
 

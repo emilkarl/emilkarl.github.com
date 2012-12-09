@@ -3,7 +3,7 @@ title: "Alpinism i Chamonix 2012"
 description: "2012 begav vi oss till Chamonix för en vecka av klättring och alpinism..."
 created_at: 2012-12-07 19:45
 published: false
-layout: application
+layout: post
 language: Swedish
 categories : [article, climbing]
 ---

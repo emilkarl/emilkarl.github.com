@@ -3,14 +3,10 @@ title: "Smart Thin restarts"
 description: "Some of my Ruby apps I run with Thin, a very small and simple web server for Ruby applications. Thin runs servers and I use Nginx to forward requests distributed on three Thin server instances."
 created_at: 2011-10-16 19:45
 published: true
-layout: application
+layout: post
 language: English
 categories : [article, web, ruby]
 ---
-
-Some of my Ruby apps I run with [Thin](http://code.macournoyer.com/thin/), 
-a very small and simple web server for Ruby applications. Thin runs servers and I use Nginx to forward requests
-distributed on three Thin server instances. 
 
 So you configure nginx to balance the requests between the three Thin instances. So in the vhost-config for the application
 you setup nginx to distribute the requests between the thin instances which is configured to run on port 3000, 3001 and 3002.

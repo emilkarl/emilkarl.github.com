@@ -3,7 +3,7 @@ title: "Custom domains in PHP"
 description: "A lot of new services out there use custom domains. Making people not only personalize there place on the service with themes, content colors etc but also with domain names is something..."
 created_at: 2012-12-07 19:45
 published: true
-layout: application
+layout: post
 language: English
 categories : [article, web, php]
 ---
