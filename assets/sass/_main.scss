@@ -39,10 +39,10 @@ h1, h2, h3 {
     background-color: $color-base-text;
     
     header, footer {
-      max-width: 360px;
+      max-width: 420px;
       margin:0 auto;
       position: relative;
-      padding: 0 30px;
+      padding: 0;
       overflow: hidden;
     }
     
@@ -74,7 +74,7 @@ h1, h2, h3 {
     margin: 0;
     padding: 0;
     position: absolute;
-    left: 30px;
+    left: 20px;
     top: 0;
     line-height: 50px;
     font-size: 16px;
@@ -142,7 +142,7 @@ h1, h2, h3 {
     .nav-toggle {
       line-height: 50px;
       float: right;
-      margin-right: 10px;
+      margin-right: 20px;
     }
   }
   
@@ -191,7 +191,7 @@ h1, h2, h3 {
   .hf-wrapper {
     
     header, footer {
-      max-width: 708px;
+      max-width: 728px;
     }
     
     header {
