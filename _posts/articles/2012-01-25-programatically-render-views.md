@@ -1,6 +1,6 @@
 ---
 title: "Programmatically render Views with applied exposed form in Drupal 7"
-description: 'Some time ago I was developing a project were I needed to programmatically render [Views](http://drupal.org/project/views) with an exposed form [Drupal 7](http://Drupal.org). I wanted to render the view with a hidden exposed form but skip that form and only use it to be able to render the view result but send in my own values for the filters. This article will show you how you can do it. Note that this is only an example and probably not the perfect use case for doing this with custom code.'
+description: "Some time ago I was developing a project were I needed to programmatically render Views with an exposed form Drupal 7. I wanted to render the view with a hidden exposed form but skip that form and only use it to be able to render the view result but send in my own values for the filters. This article will show you how you can do it. Note that this is only an example and probably not the perfect use case for doing this with custom code."
 created_at: 2012-12-07 19:45
 published: true
 layout: application
@@ -16,10 +16,6 @@ Start off with a new Block View, I called mine _myexampleview_. I set up some fi
 
 In the advanced tab I select that I will _Use Ajax_. This in important is this allows us to override the filter values.
 I will also set the view name to something good, articles_by_category.
-
-![Exposed filter]({{ home }}/images/exposed_filter.png)
-
-![My View]({{ home }}/images/the_view.png)
 
 The view is done and I will go back to the code. I will just render this view in my page.tpl.php template.
 

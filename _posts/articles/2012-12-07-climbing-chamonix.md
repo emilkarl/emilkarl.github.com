@@ -1,14 +1,12 @@
 ---
-title: "Alpinism i Chamonox"
-description: 'Efter mängder av [Stuff you should know](http://entertainment.howstuffworks.com/hsw-shows/stuff-you-should-know-podcast.htm "HowStuffWorks - Stuff You Should Know Podcast") avsnitt där de tjatat om [Kiva](http://www.kiva.org/ "Kiva - Loans that change lives") har jag äntligen gått med och skänkt mina första 25 dollar.'
+title: "Alpinism i Chamonix 2012"
+description: "2012 begav vi oss till Chamonix för en vecka av klättring och alpinism..."
 created_at: 2012-12-07 19:45
 published: false
 layout: application
 language: Swedish
 categories : [article,climbing]
 ---
-
-# Alpinism i Chamonix 2012
 
 Resan började för några år sedan när jag och Jocke bestämde oss från att ta oss upp på Kebnekajse. Det gav mersmak och vi sa då att vi måste klättra några mer, något högre. Det tog ett par år men det blev av. Vi bestämde oss för att köra [alpinistkurs](http://www.ucpa.se/Alpinism) genom [UCPA](http://www.ucpa.se) i Chamonix. 
 
