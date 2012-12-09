@@ -1,8 +1,8 @@
 ---
 title: "Alpinism i Chamonox"
 description: 'Efter mängder av [Stuff you should know](http://entertainment.howstuffworks.com/hsw-shows/stuff-you-should-know-podcast.htm "HowStuffWorks - Stuff You Should Know Podcast") avsnitt där de tjatat om [Kiva](http://www.kiva.org/ "Kiva - Loans that change lives") har jag äntligen gått med och skänkt mina första 25 dollar.'
-created_at: 2012-07-11 19:45
-published: true
+created_at: 2012-12-07 19:45
+published: false
 layout: application
 language: Swedish
 categories : [article,climbing]

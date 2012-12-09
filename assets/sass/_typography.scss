@@ -1,8 +1,18 @@
 h1, h2, h3 {
   text-transform: uppercase;
-  font-family: 'Helvetica Neue',Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 body {
-  font: 14px/1.5 'Helvetica Neue',Helvetica, Arial, sans-serif;
+  font: 14px/1.5 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+article {
+  header {
+    h2 {
+      margin: 5px 0;
+    }
+  }
 }

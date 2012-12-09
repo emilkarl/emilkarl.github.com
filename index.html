@@ -1,0 +1,20 @@
+---
+layout: application
+language: Swedish
+---
+
+{% for post in paginator.posts  %}
+  <article>
+    <header>
+      <h2><a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
+      <time class="entry-date" datetime="{{ post.created_at }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    </header>
+    <div class="entry-content">
+      <p class="intro">{{ post.description | markdownify }}</p>
+    </div>
+  </article>
+{% endfor %}
+
+{% if paginator.previous_page or paginator.next_page %}
+  {% include "_pagination.html" %}
+{% endif %}
