@@ -114,6 +114,7 @@ h1, h2, h3 {
       clear: both;
       display: block;
       max-height: 0;
+      opacity: 0;
       -webkit-transition: all .2s ease;
       -moz-transition: all .2s ease;
       transition: all .2s ease;
@@ -136,6 +137,7 @@ h1, h2, h3 {
     &.nav-active {
       nav {
         max-height: 250px;
+        opacity: 1;
       }
     }
     
