@@ -46,13 +46,19 @@
   <div class="hf-wrapper">
     <header>
       <a href="#" class="nav-toggle icon-droplet"></a>
-    
+
       <nav>
         <ul>
-          <li><a href="/">blog</a></li>
-          <li><a href="/about/">about me</a></li>
-          <li><a href="/bucket-list/">bucket list</a></li>
-        </ul>
+          {% for link in site.navigation %}
+            {% assign current = nil %}
+            {% if page.url == link.path or page.layout == link.layout %}
+              {% assign current = 'current' %}
+            {% endif %}
+            <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+              <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+            </li>
+          {% endfor %}
+          </ul>
       </nav>
       
       <figure id="logo"><a href="/">emilkarl</a></figure>
@@ -72,6 +78,7 @@
         <a href="https://plus.google.com/105382015853778730250/posts" target="_blank" class="icon-google"></a>
         <a href="http://instagram.com/emilkarl" target="_blank" class="icon-instagram"></a>
         <a href="http://www.flickr.com/photos/millow/" target="_blank" class="icon-flickr"></a>
+        <a href="http://vimeo.com/emilkarl" target="_blank" class="icon-vimeo"></a>
       </p>
     </footer>
   </div>

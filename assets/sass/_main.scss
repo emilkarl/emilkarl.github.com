@@ -39,10 +39,10 @@ h1, h2, h3 {
     background-color: $color-base-text;
     
     header, footer {
-      max-width: 420px;
+      max-width: 360px;
       margin:0 auto;
       position: relative;
-      padding: 0;
+      padding: 0 30px;
       overflow: hidden;
     }
     
@@ -74,7 +74,7 @@ h1, h2, h3 {
     margin: 0;
     padding: 0;
     position: absolute;
-    left: 10px;
+    left: 30px;
     top: 0;
     line-height: 50px;
     font-size: 16px;
@@ -124,6 +124,12 @@ h1, h2, h3 {
         text-align: center;
         margin: 0;
         line-height: 35px;
+        
+        &.current {
+          a {
+            color: $color-base-bg;
+          }
+        }
       }
     }
     
@@ -186,8 +192,6 @@ h1, h2, h3 {
     
     header, footer {
       max-width: 708px;
-      padding-left: 30px;
-      padding-right: 30px;
     }
     
     header {
@@ -199,6 +203,7 @@ h1, h2, h3 {
         }
       
       nav {
+        z-index: 10;
         min-height: 50px;
         float: right;
         
@@ -215,6 +220,7 @@ h1, h2, h3 {
   }
   
   .nav-toggle {
+    z-index: 0;
     display: none;
   }
 }
