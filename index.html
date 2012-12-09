@@ -10,20 +10,31 @@ language: Swedish
       <time class="entry-date" datetime="{{ post.created_at }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </header>
     <div class="entry-content">
-      <p class="intro">{{ post.description | markdownify }}</p>
+      {{ post.description | markdownify }}
     </div>
   </article>
 {% endfor %}
 
 {% if paginator.previous_page or paginator.next_page %}
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
-  {% endif %}
-  <span class="page_number ">{{paginator.page}} of {{paginator.total_pages}}</span>
+<div id="post-pagination" class="pagination">
+  
   {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next">Next</a>
+  <p class="next">
+    <a href="/page{{paginator.next_page}}">Next</a>
+  </p>
   {% endif %}
+  
+  {% if paginator.previous_page %}
+  <p class="previous">
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Previous</a>
+    {% else %}
+    <a href="/page{{paginator.previous_page}}">Previous</a>
+    {% endif %}
+  </p>
+  {% endif %}
+
+  <p class="pages">{{paginator.page}} of {{paginator.total_pages}}</p>
+
 </div>
 {% endif %}

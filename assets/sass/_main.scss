@@ -8,6 +8,12 @@ body {
    text-decoration: none;
  }
  
+ h1 {
+   a {
+     color: #000;
+   }
+ }
+ 
  a:hover {
    color: $color-link-hover;
  }
@@ -22,10 +28,46 @@ h1, h2, h3 {
   }
   
   /* Mobile */
-  #wrapper {
+  .wrapper {
     max-width: 420px;
     margin:0 auto;
     position: relative;
+  }
+  
+  .hf-wrapper {
+    width: 100%;
+    background-color: $color-base-text;
+    
+    header, footer {
+      max-width: 420px;
+      margin:0 auto;
+      position: relative;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    header {
+      min-height: 50px;
+    }
+    
+    footer {
+      margin-top: 30px;
+      
+      p {
+        margin: 0;
+        text-align: center;
+      }
+    
+      a {
+        line-height: 50px;
+        color: $color-base-bg;
+        margin: 0 5px;
+        
+        &:hover {
+          color: $color-link-hover;
+        }
+      }
+    }
   }
   
   #logo {
@@ -33,9 +75,11 @@ h1, h2, h3 {
     padding: 0;
     position: absolute;
     left: 10px;
-    top: 10px;
+    top: 0;
+    line-height: 50px;
+    font-size: 16px;
     a {
-      color: #000;
+      color: $color-base-bg;
     }
   }
   
@@ -54,9 +98,40 @@ h1, h2, h3 {
     padding: 10px;
   }
   
-  nav li {
-    text-align: center;
-    text-transform: uppercase;
+  header {
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    transition: all .2s ease;
+    
+    nav {
+      overflow: hidden;
+      clear: both;
+      display: block;
+      max-height: 0;
+      -webkit-transition: all .2s ease;
+      -moz-transition: all .2s ease;
+      transition: all .2s ease;
+      
+      li {
+        border-top: 1px solid $color-darkbg-border;
+        clear: both;
+        text-align: center;
+        margin: 0;
+        line-height: 35px;
+      }
+    }
+    
+    &.nav-active {
+      nav {
+        max-height: 250px;
+      }
+    }
+    
+    .nav-toggle {
+      line-height: 50px;
+      float: right;
+      margin-right: 10px;
+    }
   }
   
   li {
@@ -66,16 +141,33 @@ h1, h2, h3 {
   .pagination {
     text-align: center;
     margin-top: 30px;
+    position: relative;
+    
+    p {
+      margin: 0;
+    }
     
     .next {
-      margin-left: 10px;
+      float: right;
     }
     
     .previous {
-      margin-right: 10px;
+      float: left;
+    }
+    
+    .pages {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      text-align: center;
     }
   }
-  
+
+#content {
+  overflow: hidden;
+} 
+
 @media (min-width: 768px) {
   
 }
