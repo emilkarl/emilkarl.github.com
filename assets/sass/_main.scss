@@ -31,13 +31,12 @@ h1, h2, h3 {
   #logo {
     margin: 0;
     padding: 0;
-    background-color: $color-link;
     position: absolute;
     left: 10px;
     top: 10px;
-    width: 30px;
-    height: 30px;
-    text-indent: -10000px;
+    a {
+      color: #000;
+    }
   }
   
   header, footer {
@@ -62,6 +61,19 @@ h1, h2, h3 {
   
   li {
     list-style-position: inside;
+  }
+  
+  .pagination {
+    text-align: center;
+    margin-top: 30px;
+    
+    .next {
+      margin-left: 10px;
+    }
+    
+    .previous {
+      margin-right: 10px;
+    }
   }
   
 @media (min-width: 768px) {
