@@ -5,7 +5,7 @@ created_at: 2012-06-05 19:45
 published: true
 layout: post
 language: English
-categories : [article, climbing]
+categories : [climbing]
 ---
 
 ## Warmups

@@ -5,7 +5,7 @@ created_at: 2012-02-07 19:45
 published: true
 layout: post
 language: English
-categories : [article, web, php]
+categories : [web, php]
 ---
 
 ### PHP Sample Code

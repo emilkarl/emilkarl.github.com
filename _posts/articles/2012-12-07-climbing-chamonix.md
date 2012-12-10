@@ -5,7 +5,7 @@ created_at: 2012-12-07 19:45
 published: false
 layout: post
 language: Swedish
-categories : [article, climbing]
+categories : [climbing]
 ---
 
 Resan började för några år sedan när jag och Jocke bestämde oss från att ta oss upp på Kebnekajse. Det gav mersmak och vi sa då att vi måste klättra några mer, något högre. Det tog ett par år men det blev av. Vi bestämde oss för att köra [alpinistkurs](http://www.ucpa.se/Alpinism) genom [UCPA](http://www.ucpa.se) i Chamonix. 
