@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('.nav-toggle:visible').on('click',function(){
+  $('.nav-toggle').on('click',function(){
     $('.hf-wrapper header').toggleClass('nav-active');
   });
 });
