@@ -6,6 +6,9 @@ language: Swedish
 {% for post in paginator.posts  %}
   <article>
     <header>
+      {% if forloop.first and post.image != null %}
+        <div class="image"><img src="{{ post.image }}"/></div>
+      {% endif %}
       <h2><a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
       <time class="entry-date" datetime="{{ post.created_at }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </header>

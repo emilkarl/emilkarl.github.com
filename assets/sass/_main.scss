@@ -75,12 +75,13 @@ h1, h2, h3 {
   
   #logo {
     margin: 0;
-    padding: 0;
+    padding: 0 0 0 34px;
     position: absolute;
     left: 20px;
     top: 0;
     line-height: 50px;
     font-size: 16px;
+    background: transparent url('/assets/images/logo.png') 0 center no-repeat;
     a {
       color: $color-base-bg;
     }
