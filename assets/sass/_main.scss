@@ -141,6 +141,7 @@ h1, h2, h3 {
         width: 100%;
         max-width: 960px;
         z-index: 1;
+        margin-top: 10px;
         
         img {
           width: 100%;
@@ -304,7 +305,13 @@ h1, h2, h3 {
       }
     }
   }
-  
+  article {
+    header {
+      .image {
+        margin-top: 10px;
+      }
+    }
+  }
   .nav-toggle {
     z-index: 0;
     display: none;
