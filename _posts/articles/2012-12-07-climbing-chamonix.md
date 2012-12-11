@@ -9,7 +9,7 @@ categories: [climbing]
 image: "/assets/images/posts/chamonix-2012.jpg"
 --- 
 
-Den 5e juli 2012 satte vi oss i bilen och rullade iväg när mot de franska alperna. 
+Den 5e juli 2012 satte vi oss i bilen och rullade iväg ner mot de franska alperna. 
 
 ## Dag 1 & 2 - Resa genom Europa
 
