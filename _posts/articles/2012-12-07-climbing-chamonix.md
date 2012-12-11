@@ -126,7 +126,6 @@ Den grymma dagen avslutades med ett par bärs på stan. Riktigt trevligt. När v
 
 * Brant vandring från Aiguille du Midi
 * Säkerhet på glaciärer och kammar
-* 
 
 ## Dag 8 - Vallorcine & Refuge Albert 1er
 
