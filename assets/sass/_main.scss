@@ -106,6 +106,14 @@ h1, h2, h3 {
       h2, h3 {
         color: $color-base-text;
       }
+      
+      ul {
+        margin: 15px 0;
+        
+        li {
+          margin: 5px 0;
+        }
+      }
     }
   }
   
