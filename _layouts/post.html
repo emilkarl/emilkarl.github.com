@@ -2,18 +2,16 @@
 layout: application
 ---
 <!-- !post -->
-{% if page.image != null %}
-    <div class="image"><img src="{{ page.image }}"/></div>
-{% endif %}
-
 <article>
     <header {% if page.image != null %}class="has-image"{% endif %}>
         {% if page.image != null %}
           <div class="image"><img src="{{ page.image }}"/></div>
         {% endif %}
-        <h1><a title="Permalink to {{ page.title }}" rel="bookmark" href="{{ page.url }}">{{ page.title }}</a></h1>
-        <time class="entry-date" datetime="{{ page.created_at }}">{{ page.created_at | date: "%B %d, %Y" }}</a></time>
-        <span class="categories">{% for category in post.categories %}{{ category.title }}{% endfor %}</span>
+        <div class="entry-header">
+          <h1><a title="Permalink to {{ page.title }}" rel="bookmark" href="{{ page.url }}">{{ page.title }}</a></h1>
+          <time class="entry-date" datetime="{{ page.created_at }}">{{ page.created_at | date: "%B %d, %Y" }}</a></time>
+          <span class="categories">{% for category in post.categories %}{{ category.title }}{% endfor %}</span>
+        </div>
     </header>
     <div class="entry-content">
         <div class="intro">{{ page.description | escape | markdownify }}</div>
