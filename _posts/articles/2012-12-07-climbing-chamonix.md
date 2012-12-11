@@ -102,7 +102,7 @@ Efter lunch blev det isklättring. Runt 20 meters höga isväggar klättrades, v
 
 Den grymma dagen avslutades med ett par bärs på stan. Riktigt trevligt. När vi kom tillbaka hade vår rätt spontana guide, Pierre, fyllt i morgondagens äventyr på schemat (se bild).
 
-<div class="photo-grid">
+<div class="image-grid">
 
 <a href="http://www.flickr.com/photos/millow/7581731294/" title="photo by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8142/7581731294_ae166f09c0_q.jpg" width="150" height="150" alt="Prepare to walk"></a>
 
