@@ -6,6 +6,7 @@ published: true
 layout: post
 language: Swedish
 categories : [climbing]
+image: /assets/images/posts/climbing-chamonix.jpg
 --- 
 
 Den 5e juli 2012 satte vi oss i bilen och rullade iväg när mot de franska alperna. 

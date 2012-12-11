@@ -100,6 +100,19 @@ h1, h2, h3 {
       .entry-date {
         color: $color-link-light;
       }
+      
+      .image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        max-width: 960px;
+        z-index: 1;
+      }
+      
+      &.has-image {
+        max-height: 350px;
+        position: relative;
+      }
     }
     
     .entry-content {
