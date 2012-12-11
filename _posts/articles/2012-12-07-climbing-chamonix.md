@@ -115,7 +115,26 @@ Onsdagen inleddes började blåstigt. Det var i princip storm men vi tog linbana
 
 Efter ett par timmar i rejäl vind kom vi fram till en "isvägg" som skulle klättras. Den tog oss upp på en kam som senare ledde till en ganska enkel klättring upp på den [första toppen av traversen](https://vimeo.com/48064873). Det var rejält luftigt på toppen, och vi fick kliva över stenar som kändes lösa, hänga oss ut över kanten för att oss runt och till slut var det dags för lunch.
 
-För att ta oss till nästa topp fick vi fira oss ner till en kam som låg mellan båda topparna och vandra den. Klättringen upp till andra toppen var luftig och tung. Med en fullproppad rygga, skidhandskar och stegjärn på föttarna kändes det inte
+För att ta oss till nästa topp fick vi fira oss ner till en kam som låg mellan båda topparna och vandra den. Klättringen upp till andra toppen var luftig och tung. Med en fullproppad rygga, skidhandskar och stegjärn på föttarna kändes det inte lättare. Utan tvekan den läskigaste leaden jag gjort än så länge. Väl uppe på toppen var det härligt som vanligt men dåligt värder hade dragit in över linbanan en bit bort.
+
+Vi började klättringen ner och vandringen tillbaka. Jag har nog aldrig varit så trött som jag var mot slutet. Joakim var så trött att vi fick stanna var 20e steg och hämta andan. Ju närmare linbanan vi kom desto mindre sikt blev det. Mot slutet såg man kanske bara 20 meter framför sig men man visste att det stup på några hundra meter på varje sida.
+
+Givetvis var linbanan stängd och vi fick sitta i en hall och vänta i över 3 timmar på att de skulle ta ner de sista klättrarna som fastnat där uppe. Väl nere kunde man hämta andan igen och kände sig något piggare.
+
+<div class="image-grid">
+
+<a href="http://www.flickr.com/photos/millow/7656600428/" title="photo by emilkarl, on Flickr"><img src="http://farm8.staticflickr.com/7111/7656600428_4896013762_q.jpg" width="150" height="150" alt="Prepare to walk"></a>
+
+<a href="http://www.flickr.com/photos/millow/7656664270" title="Untitled by emilkarl, on Flickr"><img src="http://farm8.staticflickr.com/7280/7656664270_650e4f3ee0_q.jpg" width="150" height="150" alt="Ice climbing"></a>
+
+<a href="http://www.flickr.com/photos/millow/7656671472" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8283/7656671472_f0c20b2741_q.jpg" width="150" height="150" alt="Lunch time"></a>
+
+<a href="http://www.flickr.com/photos/millow/7656680420" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8149/7656680420_5a2b061690_q.jpg" width="150" height="150" alt="Ridge walk"></a>
+
+<a href="http://www.flickr.com/photos/millow/7656675532" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8028/7656675532_a1418f6c05_q.jpg" width="150" height="150" alt="Second summit"></a>
+
+
+</div>
 
 ## Dag 8 - Vallorcine & Refuge Albert 1er
 
