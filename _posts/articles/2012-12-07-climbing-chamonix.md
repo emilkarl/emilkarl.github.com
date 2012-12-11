@@ -133,30 +133,27 @@ Givetvis var linbanan stängd och vi fick sitta i en hall och vänta i över 3 t
 
 <a href="http://www.flickr.com/photos/millow/7656675532" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8028/7656675532_a1418f6c05_q.jpg" width="150" height="150" alt="Second summit"></a>
 
-
 </div>
 
 ## Dag 8 - Vallorcine & Refuge Albert 1er
 
-När vi vakna den här dage
-* Lavin
-* 95 meter klättring
-* Bästa dagen, skönt med bara soft klättring
-* Lunch vid en liten fors
-* Lång tung vandring upp mot refugee
-* Hunden
-* Maten
-* Hänget
+Dagen inleddes med en bilfärd på Vallorcine och en multi pitch på 95 meter. Kalasväder och riktigt trevlig klättring. Hade aldrig kört en så lång multi pitch tidigare men det måste göras om! Vi fick även reda på [lavinen](http://www.bbc.co.uk/news/world-europe-18688871) som hänt under natten. Guiderna höll sig uppdaterade på telefon med andra guider men vi märkte inte av det alls mer än så. Efter lunch väntade en vandring mot Refuge Albert 1st, en stuga en ganska högt upp på berget och halvvägs mot resans mål Aiguille du Tour. 
 
+Vägen upp till refugeen var lång, varm och jobbig men vilka vyer som visade upp sig på vägen. Vi lyckades även träffa på ett murmeldjur! Stugan var belägen på kanten av en glaciär och innehåll några sovsalar och en liten restaurang. Vi käkade gött o snacka klättring hela kvällen och vi kom nog i säng lite väl sent för att på natten fortsätta klättringen upp mot toppen. Vi försökte pumpa Pierre på klätterhistorier och hans expedition på Mt. Everest.
 
 ## Dag 9 - Aiguille du Tour, North summit
 
-* Tidig morgon, ingen sömn
-* Glömde lampa och yxa
-* Vindar utöver det vanliga
-* Vandring genom Schweiz
-* Grymt att toppa, skön känsla
-* Ramla på vägen ner
-* Snabb vandring ner från refugee
+Riktigt dålig sömn och en tidig morgon är inte den bästa uppladdningen. Vi steg upp 04.00 och skulle börja toppturen vid 05.00 för att vara iväg i tid. På grund av bristen på sömn och ett par jobbiga dagar tidigare lyckades jag både glömma pannlampan och isyxan och fick springa tillbaka i mörket. När vi börjat klättringen och komma upp en bit var det storm. Det gick inte att stå emot vindarna som kom från alla håll. Det var riktigt jobbigt att vandra i brant terräng med en vind som gjorde att man slogs fram, bak och åt sidorna hela tiden.
+
+Vi korsade Schweiz på vägen och tog oss till slut upp på toppen. Alla ganska slitna, allas vatten hade frusit på vägen. En riktigt skön känsla att nå toppen och kunna titta ut över alperna.
+
+Vi var andra gänget uppe på toppen och på vägen ner mötte vi en annan grupp som vi träffat tidigare under veckan. Vi stannade o snackade lite och när vi skulle fortsätta hade nog både tröttheten och avslappningen från att stå still ett tag satt sig. Jag tog två steg innan jag föll framåt stupa över kanten. Som tur var var Joakim med o stoppade fallet och jag kom undan med ett svullet knä och trasiga byxor. Ner vägen var relativt smärtfri i övrigt, det är bra mycket snabbare att gå neråt. Det tog 2-3 timmar att ta oss ner till botten av berget inklusive ett stopp i stugan med lite förfriskning på vägen. 
+
+Väl framme i Chamonix lämnade vi av våra guider och gick upp för o vila. Kvällen bjöd på födelsedagsbärs på stan med hela gänget (britterna och fransosen) och VM i ledklättring på torget i Chamonix. Det var riktigt grymt, kul att se världens bästa klättrare få det att se så enkelt ut.
+
 
 ## Dag 10 & 11 - Hemåt
+
+Vi hade tänkte stanna för lite egen klättring men var helt slut och bestämde oss för att ge oss hemåt. Vi skulle ta en sväng förbi Milano men Mont Blanc-tunneln var kaos så vi åkte samma väg tillbaka som vi kommit. Däremot blev det en avstickare till Zürich, fin stad som är väl värd ett besök. Vi blåste på hela natten och var hemma på ungefär ett dygn.
+
+Grym vecka och rekommenderas varmt till alla som är sugna på lite äventyr! För mer bilder och filmer kan ni kika in på min Flickr eller Vimeo som ni hittar i botten på sidan.
