@@ -138,6 +138,7 @@ Givetvis var linbanan stängd och vi fick sitta i en hall och vänta i över 3 t
 
 ## Dag 8 - Vallorcine & Refuge Albert 1er
 
+När vi vakna den här dage
 * Lavin
 * 95 meter klättring
 * Bästa dagen, skönt med bara soft klättring
