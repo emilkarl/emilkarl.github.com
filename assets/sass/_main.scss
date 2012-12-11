@@ -105,13 +105,24 @@ h1, h2, h3 {
         position: absolute;
         top: 0;
         left: 0;
-        max-width: 960px;
+        width: 100%;
+        max-width: 920px;
         z-index: 1;
+        
+        img {
+          width: 100%;
+          max-width: 920px;
+        }
       }
       
       &.has-image {
         max-height: 350px;
         position: relative;
+      }
+      
+      .entry-header {
+        position: relative;
+        z-index: 10;
       }
     }
     
