@@ -101,6 +101,12 @@ h1, h2, h3 {
         color: $color-link-light;
       }
     }
+    
+    .entry-content {
+      h2, h3 {
+        color: $color-base-text;
+      }
+    }
   }
   
   #content {

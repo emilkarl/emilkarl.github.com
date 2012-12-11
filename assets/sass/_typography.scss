@@ -10,7 +10,7 @@ body {
 }
 
 body, p {
-  line-height: 1.5em;
+  line-height: 1.8em;
 }
 
 article {
@@ -27,6 +27,11 @@ article {
   .entry-content {
     p {
       margin: .5em 0;
+    }
+    
+    h2, h3 {
+      margin-top: 20px;
+      margin-bottom: 5px;
     }
   }
 }
