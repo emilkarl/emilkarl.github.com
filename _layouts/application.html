@@ -43,6 +43,7 @@
 </head>
 
 <body class="{% if page.categories != null %}{{ page.categories }}{% else %}front{% endif %}">
+  <div id="wrapper">
   <div class="hf-wrapper">
     <header>
       <a href="#" class="nav-toggle icon-droplet"></a>
@@ -70,8 +71,8 @@
       {{ content }}
     </section>
   </div>
-  
-  <div class="hf-wrapper">
+  </div>
+  <div id="footer-wrapper" class="hf-wrapper">
     <footer>
       <p>
         <a href="http://twitter.com/emilkarl" target="_blank" class="icon-twitter"></a>

@@ -5,12 +5,12 @@ description: "Here is my bucket list inspired by myself and others. "
 permalink: "/bucket-list/index.html"
 ---
 
-Here is my bucket list inspired by myself and others. 
+Here is my bucket list inspired by myself and others. I've completed <span class="bucket-items-completed">0</span> out of <span class="bucket-items-total">0</span> things until today.
 
 ## Fitness & Training
 
 * Climb an 8A line
-* ~~Learn alpinism & summit a peak above 3000 meters~~ (July 2012 in Chamonix, France. Summitted 3 peaks above 3 500 meters in the Mont Blanc Massive. North and south summit of Pointse Lachenal and north summit of Aiguille de Tour)
+<li class="complete"> ~~Learn alpinism & summit a peak above 3000 meters~~ (July 2012 in Chamonix, France. Summitted 3 peaks above 3 500 meters in the Mont Blanc Massive. North and south summit of Pointse Lachenal and north summit of Aiguille de Tour)</li>
 * Learn and practice Yoga at least twice a week
 * Run Björkliden Arctic Mountain Marathon (BAMM)
 
@@ -22,6 +22,7 @@ Here is my bucket list inspired by myself and others.
 * Attend the Belgium Grand Prix F1 race at SPA
 * Watch El Clásico at Camp Nou (Barcelona FC - Real Madrid)
 * Have a beer at Oktoberfest in Münich, Germany
+* Learn randonné skiing (planned for April 2013)
 * Freeski in the Alps
 * Go mountain biking in Scotland
 * Hike in Sarek, Sweden

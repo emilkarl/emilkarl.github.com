@@ -1,12 +1,12 @@
 ---
 title: "Alpinism i Chamonix 2012"
 description: "Resan började för några år sedan när jag och Jocke bestämde oss från att ta oss upp på Kebnekajse. Det gav mersmak och vi sa då att vi måste klättra några mer, något högre. Det tog ett par år men det blev av. Vi bestämde oss för att köra [alpinistkurs](http://www.ucpa.se/Alpinism) genom [UCPA](http://www.ucpa.se) i Chamonix."
-created_at: 2012-12-07 19:45
-published: false
+created_at: 2012-12-11 19:45
+published: true
 layout: post
 language: Swedish
 categories: [climbing]
-image: "/assets/images/posts/climbing-chamonix.jpg"
+image: "/assets/images/posts/chamonix-2012.jpg"
 --- 
 
 Den 5e juli 2012 satte vi oss i bilen och rullade iväg när mot de franska alperna. 
@@ -45,15 +45,9 @@ Det var ingen bra idé att åka upp i kortbrallor och skaljacka märkte jag efte
 
 <div class="image-grid">
 	
-	<a href="http://www.flickr.com/photos/millow/7656576820/" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8153/7656576820_f22c20d575_q.jpg" width="150" height="150" alt="Untitled"></a>
-	
-	<a href="http://www.flickr.com/photos/millow/7656581916/" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8003/7656581916_7b12a84e90_q.jpg" width="150" height="150" alt="Untitled"></a>
-	
-	<a href="http://www.flickr.com/photos/millow/7656590260/" title="Chamonix Overview by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8424/7656590260_041af6df12_q.jpg" width="150" height="150" alt="Chamonix Overview"></a>
+  <a href="http://www.flickr.com/photos/millow/7656590260/" title="Chamonix Overview by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8424/7656590260_041af6df12_q.jpg" width="150" height="150" alt="Chamonix Overview"></a>
 	
 	<a href="http://www.flickr.com/photos/millow/7656595584/" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8429/7656595584_704ca2d3c4_q.jpg" width="150" height="150" alt="Untitled"></a>
-	
-	<a href="http://www.flickr.com/photos/millow/7656597168/" title="Untitled by emilkarl, on Flickr"><img src="http://farm8.staticflickr.com/7250/7656597168_e92cf530f0_q.jpg" width="150" height="150" alt="Untitled"></a>
 	
 	<a href="http://www.flickr.com/photos/millow/7656603118/" title="Untitled by emilkarl, on Flickr"><img src="http://farm8.staticflickr.com/7265/7656603118_82d1d81f10_q.jpg" width="150" height="150" alt="Untitled"></a>
 	
@@ -99,7 +93,7 @@ Vi tog oss ner på glaciären [Mer de Glace](http://en.wikipedia.org/wiki/Mer_de
 
 Efter lunch blev det isklättring. Runt 20 meters höga isväggar klättrades, vi tränade teknik för att få i iskruvar. Jag märkte att det gick tung att smacka in mitt högra stegjärn i isen och så att det hängde löst på kängan. Det blev en tung klättring upp till toppen mest hängande i armarna. Efter ett par repor på topprep var det dags att leda. Isklättringen gick som smort o alla var aspepp. Vägen tillbaka till tågstationen var lång och varm. Solen gassade för fullt, och efter ha klättrat upp de branta stegarna vi klättrat ner så var man både mör och svett.
 
-Den grymma dagen avslutades med ett par bärs på stan. Riktigt trevligt. När vi kom tillbaka hade vår rätt spontana guide, Pierre, fyllt i morgondagens äventyr på schemat (se bild).
+Den grymma dagen avslutades med ett par bärs på stan. Riktigt trevligt. När vi kom tillbaka hade vår rätt suveräna guide, Pierre, fyllt i morgondagens äventyr på schemat.
 
 <div class="image-grid">
 
@@ -113,18 +107,15 @@ Den grymma dagen avslutades med ett par bärs på stan. Riktigt trevligt. När v
 
 <a href="http://www.flickr.com/photos/millow/7656639546/" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8004/7656639546_836160a8da_q.jpg" width="150" height="150" alt="The way back"></a>
 
-<a href="http://www.flickr.com/photos/millow/7656643572/" title="Going up by emilkarl, on Flickr"><img src="http://farm8.staticflickr.com/7124/7656643572_419c2cc7b7_q.jpg" width="150" height="150" alt="Going up"></a>
-
-<a href="http://www.flickr.com/photos/millow/7656645914/" title="Untitled by emilkarl, on Flickr"><img src="http://farm8.staticflickr.com/7113/7656645914_4217bbdcdf_q.jpg" width="150" height="150" alt="Untitled"></a>
-
-<a href="http://www.flickr.com/photos/millow/7656649212/" title="Untitled by emilkarl, on Flickr"><img src="http://farm9.staticflickr.com/8005/7656649212_4b4fd01739_q.jpg" width="150" height="150" alt="Untitled"></a>
-
 </div>
 
 ## Dag 7 - Pointes Lachenal
 
-* Brant vandring från Aiguille du Midi
-* Säkerhet på glaciärer och kammar
+Onsdagen inleddes började blåstigt. Det var i princip storm men vi tog linbanan upp till Aiguille du Midi för att ta oss an Pointes Lachenal traversen. Vid 8:30 tiden stod vi på toppen av du Midi för att ge oss ut på [kammen](https://vimeo.com/48283030). Andra dagen jag använde stegjärn på riktigt, redigt najs. Det var en brant vandring, både framåt och åt sidorna, som tog oss ut på glaciären nedanför. Där hade folk satt upp tält och spenderat tiden med att bygga en snögubbe förställande en sjöjungru eller något i den stilen.
+
+Efter ett par timmar i rejäl vind kom vi fram till en "isvägg" som skulle klättras. Den tog oss upp på en kam som senare ledde till en ganska enkel klättring upp på den [första toppen av traversen](https://vimeo.com/48064873). Det var rejält luftigt på toppen, och vi fick kliva över stenar som kändes lösa, hänga oss ut över kanten för att oss runt och till slut var det dags för lunch.
+
+För att ta oss till nästa topp fick vi fira oss ner till en kam som låg mellan båda topparna och vandra den. Klättringen upp till andra toppen var luftig och tung. Med en fullproppad rygga, skidhandskar och stegjärn på föttarna kändes det inte
 
 ## Dag 8 - Vallorcine & Refuge Albert 1er
 
