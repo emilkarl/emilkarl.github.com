@@ -6,6 +6,7 @@ published: true
 layout: post
 language: English
 categories : [climbing]
+image: "/assets/images/posts/climbing-chamonix.jpg"
 ---
 
 ## Warmups

@@ -2,11 +2,11 @@
 title: "Alpinism i Chamonix 2012"
 description: "Resan började för några år sedan när jag och Jocke bestämde oss från att ta oss upp på Kebnekajse. Det gav mersmak och vi sa då att vi måste klättra några mer, något högre. Det tog ett par år men det blev av. Vi bestämde oss för att köra [alpinistkurs](http://www.ucpa.se/Alpinism) genom [UCPA](http://www.ucpa.se) i Chamonix."
 created_at: 2012-12-07 19:45
-published: true
+published: false
 layout: post
 language: Swedish
-categories : [climbing]
-image: /assets/images/posts/climbing-chamonix.jpg
+categories: [climbing]
+image: "/assets/images/posts/climbing-chamonix.jpg"
 --- 
 
 Den 5e juli 2012 satte vi oss i bilen och rullade iväg när mot de franska alperna. 
