@@ -13,7 +13,7 @@ Förutom skidåkningen blir det mina första vinternätter i tält, ska bli intr
 Jag har bara hört bra om Fjällfest så det blir nog en upplevelse och förhoppningsvis något som ger mersmak. 
 Det vore väldigt trevligt att kunna blanda in lite klättring i toppturerna så man kan få lite av den varan också.
 
-Paddelturen blir troligtvis ihop med en polare. Vi räknar med ett relativt lugnt tempo där vi utforskar öaar och kobbar vid kusten. 
+Paddelturen blir troligtvis ihop med en kompis. Vi räknar med ett relativt lugnt tempo, utan hets, där vi har tid att utforska lite utmed vägen. 
 Planen som diskuterats har varit att starta i väst och avsluta i öst, vi får se hur det blir med den saken. Vi har inte räknat
 speciellt mycket på tiden, men skulle tro att 5 till 7 dagar räcker gott för att ta sig hela vägen in i mål.
 
