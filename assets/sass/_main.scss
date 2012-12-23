@@ -114,6 +114,7 @@ h1, h2, h3 {
     padding: 0;
     height: 75px;
     width: 75px;
+    background-size: 75px 75px;
     background: transparent url('/assets/images/logo.jpg') 0 center no-repeat;
     a {
       display: block;
@@ -138,25 +139,7 @@ h1, h2, h3 {
     }
     
     header {
-      position: relative;
-      
-      .entry-date {
-        -webkit-transition: all .2s linear;
-        -moz-transition: all .2s linear;
-        transition: all .2s linear;
-        position: absolute;
-        top: 8px;
-        right: 20px;
-        display: none;
-        color: $color-link-light;
-      }
-      
-      &:hover {
-        .entry-date {
-          display: block;
-        }
-      }
-      
+
       .image {
         width: 100%;
         max-width: 768px;
@@ -259,24 +242,18 @@ h1, h2, h3 {
       -webkit-border-radius: 2px;
       
       margin: 0;
-      background-color: $color-link-light;
-      &:hover {
-        background-color: $color-link-hover;
-      }
       
       a {
-        color: $color-base-bg;
+        font-size: 20px;
         padding: 5px;
       }
     }
     
     .next {
-      padding-right: 8px;
       float: right;
     }
     
     .previous {
-      padding-left: 8px;
       float: left;
     }
     
@@ -352,7 +329,10 @@ h1, h2, h3 {
   }
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (-o-min-device-pixel-ratio: 3/2),
+  only screen and (min--moz-device-pixel-ratio: 1.5),
+  only screen and (min-device-pixel-ratio: 1.5) {
   #logo {
     background-image: url('/assets/images/logo@2x.jpg');
   }

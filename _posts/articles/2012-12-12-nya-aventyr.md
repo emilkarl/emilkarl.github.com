@@ -6,6 +6,7 @@ published: true
 layout: post
 language: Swedish
 categories : [outdoor]
+icon: fire
 ---
 
 Jag har aldrig gjort några ordentliga toppturer på skidor eller åkt speciellt mycket offpist så det blir verkligen kul. 

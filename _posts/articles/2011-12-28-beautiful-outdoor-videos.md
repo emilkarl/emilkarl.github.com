@@ -6,6 +6,7 @@ published: true
 layout: post
 language: English
 categories : [outdoor]
+icon: fire
 ---
 
 Today I did a little research and found that the filmers name is _Sebastien Montaz-Rosset_. Check out his [Vimeo channel](http://vimeo.com/chamonix) and his [website](http://www.sebmontaz.com/). A lot of beautiful videos captured in the alps! 

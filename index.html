@@ -7,9 +7,8 @@ language: Swedish
   <article>
     <header {% if false and forloop.first and post.image != null and paginator.page == 1 %}class="with-image" style="background-image: url({{ post.image }});"{% endif %}>
       <h2><a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
-      <time class="entry-date" datetime="{{ post.created_at }}">{{ post.date | date: "%B %d, %Y" }}</time>
     </header>
-    <div class="entry-content">
+    <div class="entry-content" {% if post.icon %}class="icon-{{ post.icon }}"{% endif %}>
       {{ post.description | markdownify }}
     </div>
   </article>
@@ -20,13 +19,13 @@ language: Swedish
   
   {% if paginator.next_page %}
   <p class="next">
-    <a href="/page{{paginator.next_page}}"  class="icon-after-arrow-right-alt1"><span>Older</span></a>
+    <a href="/page{{paginator.next_page}}"  class="icon-after-arrow-right-alt1"></a>
   </p>
   {% endif %}
   
   {% if paginator.previous_page %}
   <p class="previous">
-    <a href="{% if paginator.previous_page == 1 %}/{% else %}/page{{paginator.previous_page}}{% endif %}" class="icon-arrow-left-alt1"><span>Newer</span></a>
+    <a href="{% if paginator.previous_page == 1 %}/{% else %}/page{{paginator.previous_page}}{% endif %}" class="icon-arrow-left-alt1"></a>
   </p>
   {% endif %}
 

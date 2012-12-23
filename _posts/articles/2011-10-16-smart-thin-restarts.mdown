@@ -6,6 +6,7 @@ published: true
 layout: post
 language: English
 categories : [web, ruby]
+icon: code
 ---
 
 So you configure nginx to balance the requests between the three Thin instances. So in the vhost-config for the application

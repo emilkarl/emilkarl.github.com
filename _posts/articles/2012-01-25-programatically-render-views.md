@@ -6,6 +6,7 @@ published: true
 layout: post
 language: English
 categories : [web, drupal]
+icon: code
 ---
 
 ## Create a view
