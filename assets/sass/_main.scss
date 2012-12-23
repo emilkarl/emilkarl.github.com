@@ -11,7 +11,7 @@ body {
    height: auto; 
    min-height: 100%;
    }
- 
+
 #footer-wrapper { 
   position: relative;
   margin-top: -80px;
@@ -94,7 +94,13 @@ h1, h2, h3 {
         margin: 0;
         text-align: center;
       }
-    
+      
+      .small {
+        margin-right: 20px;
+        a {
+          margin: 0;
+        }
+      }
       a {
         line-height: 50px;
         color: $color-base-text;
@@ -159,10 +165,10 @@ h1, h2, h3 {
       
       h2, h1 {
         &:before {
-          margin-top: 8px;
+          margin-top: 11px;
           position: absolute;
-          font-size: 14px;
-          left: 0px;
+          font-size: 10px;
+          left: 8px;
           color: $color-link-light;
         }
       }
@@ -244,6 +250,7 @@ h1, h2, h3 {
   }
   
   .pagination {
+    overflow: hidden;
     text-align: center;
     margin-top: 30px;
     position: relative;
@@ -332,6 +339,14 @@ h1, h2, h3 {
     header {
       .image {
         margin-top: 10px;
+      }
+      
+      h2, h1 {
+        &:before {
+          margin-top: 9px;
+          font-size: 12px;
+          left: 3px;
+        }
       }
     }
   }

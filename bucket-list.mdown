@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Bucket list"
-description: "Here is my bucket list inspired by myself and others. "
-permalink: "/bucket-list/index.html"
+title: "Things to do"
+description: "My list of things to do, it's inspired by myself and others. "
+permalink: "/todo/index.html"
 ---
 
 Here is my bucket list inspired by myself and others. I've completed <span class="bucket-items-completed">0</span> out of <span class="bucket-items-total">0</span> things until today.
@@ -37,7 +37,7 @@ Here is my bucket list inspired by myself and others. I've completed <span class
 * Travel to a foreign country alone
 * Take an unplanned weekend trip to a european city
 
-## Things To do
+## Other
 
 * Drive a racing car at a race track
 * Get a dog

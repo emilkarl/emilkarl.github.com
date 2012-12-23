@@ -19,6 +19,6 @@ navigation:
   - text: about me
     url: /about/
     path: /about/index.html
-  - text: bucket list
-    url: /bucket-list/
-    path: /bucket-list/index.html
+  - text: things to do
+    url: /todo/
+    path: /todo/index.html
