@@ -47,9 +47,9 @@
   <div class="hf-wrapper">
     <header>
       <a href="#" class="nav-toggle icon-droplet"></a>
-
+      
       <nav>
-        <ul>
+         <ul>
           {% for link in site.navigation %}
             {% assign current = nil %}
             {% if page.url == link.path or page.layout == link.layout %}
@@ -61,8 +61,8 @@
           {% endfor %}
           </ul>
       </nav>
-      
       <figure id="logo"><a href="/">emilkarl</a></figure>
+      
     </header>
   </div>
   

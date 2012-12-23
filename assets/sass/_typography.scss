@@ -30,7 +30,7 @@ article {
   
   .entry-content {
     p {
-      margin: .5em 0;
+      margin: 1em 0;
     }
     
     h2, h3 {
@@ -39,7 +39,25 @@ article {
   }
 }
 
+header {
+  nav {
+    h2 {
+      font-size: 18px;
+    }
+  }
+}
+
 .pagination,
 .wrapper > footer {
   font-size: 14px;
+}
+
+.pagination {
+  p {
+    a {
+      span {
+        margin: 0 8px;
+      }
+    }
+  }
 }

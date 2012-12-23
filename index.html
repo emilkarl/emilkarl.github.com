@@ -20,21 +20,15 @@ language: Swedish
   
   {% if paginator.next_page %}
   <p class="next">
-    <a href="/page{{paginator.next_page}}">Next</a>
+    <a href="/page{{paginator.next_page}}"  class="icon-after-arrow-right-alt1"><span>Older</span></a>
   </p>
   {% endif %}
   
   {% if paginator.previous_page %}
   <p class="previous">
-    {% if paginator.previous_page == 1 %}
-    <a href="/">Previous</a>
-    {% else %}
-    <a href="/page{{paginator.previous_page}}">Previous</a>
-    {% endif %}
+    <a href="{% if paginator.previous_page == 1 %}/{% else %}/page{{paginator.previous_page}}{% endif %}" class="icon-arrow-left-alt1"><span>Newer</span></a>
   </p>
   {% endif %}
-
-  <p class="pages">{{paginator.page}} of {{paginator.total_pages}}</p>
 
 </div>
 {% endif %}

@@ -74,7 +74,6 @@ h1, h2, h3 {
   
   .hf-wrapper {
     width: 100%;
-    background-color: $color-base-text;
     
     header, footer {
       max-width: 420px;
@@ -85,7 +84,7 @@ h1, h2, h3 {
     }
     
     header {
-      min-height: 50px;
+      min-height: 85px;
     }
     
     footer {
@@ -98,7 +97,7 @@ h1, h2, h3 {
     
       a {
         line-height: 50px;
-        color: $color-base-bg;
+        color: $color-base-text;
         margin: 0 5px;
         
         &:hover {
@@ -109,16 +108,19 @@ h1, h2, h3 {
   }
   
   #logo {
-    margin: 0;
-    padding: 0 0 0 34px;
     position: absolute;
     left: 20px;
-    top: 0;
-    line-height: 50px;
-    font-size: 16px;
-    background: transparent url('/assets/images/logo.png') 0 center no-repeat;
+    top: 10px;
+    padding: 0;
+    height: 75px;
+    width: 75px;
+    background: transparent url('/assets/images/logo.jpg') 0 center no-repeat;
     a {
-      color: $color-base-bg;
+      display: block;
+      overflow: hidden;
+      text-indent: -10000px;
+      width: 100%;
+      height: 100%;
     }
   }
   
@@ -128,24 +130,42 @@ h1, h2, h3 {
   }
   
   article {
+    
+    margin-bottom: 45px;
+    
     header, footer {
       padding: 0;
     }
     
     header {
+      position: relative;
+      
       .entry-date {
+        -webkit-transition: all .2s linear;
+        -moz-transition: all .2s linear;
+        transition: all .2s linear;
+        position: absolute;
+        top: 8px;
+        right: 20px;
+        display: none;
         color: $color-link-light;
+      }
+      
+      &:hover {
+        .entry-date {
+          display: block;
+        }
       }
       
       .image {
         width: 100%;
-        max-width: 960px;
+        max-width: 768px;
         z-index: 1;
         margin-top: 10px;
         
         img {
           width: 100%;
-          max-width: 960px;
+          max-width: 768px;
         }
       }
       
@@ -157,7 +177,7 @@ h1, h2, h3 {
     
     .entry-content {
       h2, h3 {
-        color: $color-base-text;
+        color: $color-header;
       }
       
       ul {
@@ -183,22 +203,19 @@ h1, h2, h3 {
   }
   
   header {
-    -webkit-transition: all .2s ease;
-    -moz-transition: all .2s ease;
-    transition: all .2s ease;
-    
+
     nav {
       overflow: hidden;
       clear: both;
       display: block;
       max-height: 0;
       opacity: 0;
-      -webkit-transition: all .2s ease;
-      -moz-transition: all .2s ease;
-      transition: all .2s ease;
+      -webkit-transition: all .2s linear;
+      -moz-transition: all .2s linear;
+      transition: all .2s linear;
       
       li {
-        border-top: 1px solid $color-darkbg-border;
+        border-bottom: 1px solid $color-link-superlight;
         clear: both;
         text-align: center;
         margin: 0;
@@ -206,7 +223,7 @@ h1, h2, h3 {
         
         &.current {
           a {
-            color: $color-base-bg;
+            color: $color-link-hover;
           }
         }
       }
@@ -220,8 +237,9 @@ h1, h2, h3 {
     }
     
     .nav-toggle {
-      line-height: 50px;
+      line-height: 75px;
       float: right;
+      margin-top: 10px;
       margin-right: 20px;
     }
   }
@@ -236,14 +254,29 @@ h1, h2, h3 {
     position: relative;
     
     p {
+      border-radius: 2px;
+      -moz-border-radius: 2px;
+      -webkit-border-radius: 2px;
+      
       margin: 0;
+      background-color: $color-link-light;
+      &:hover {
+        background-color: $color-link-hover;
+      }
+      
+      a {
+        color: $color-base-bg;
+        padding: 5px;
+      }
     }
     
     .next {
+      padding-right: 8px;
       float: right;
     }
     
     .previous {
+      padding-left: 8px;
       float: left;
     }
     
@@ -262,7 +295,7 @@ h1, h2, h3 {
     }
   }
   li.complete {
-    color: $color-link-light;
+    color: $color-link-hover;
     &:hover {
       color: $color-base-text;
     }
@@ -270,27 +303,28 @@ h1, h2, h3 {
 @media (min-width: 768px) {
   /* Mobile */
   .wrapper {
-    max-width: 960px;
+    max-width: 768px;
   }
   
   .hf-wrapper {
     
     header, 
     footer {
-      max-width: 940px;
+      max-width: 748px;
     }
     
     header {
       
       #logo {
-        left: 0;
+        left: 10px;
         float: left;
         position: relative;
         }
       
       nav {
         z-index: 10;
-        min-height: 50px;
+        min-height: 75px;
+        margin: 10px 50px 0 0;
         float: right;
         opacity: 1;
         
@@ -298,7 +332,7 @@ h1, h2, h3 {
           float: left;
           clear: none;
           border-top: none;
-          line-height: 50px;
+          line-height: 75px;
           margin-left: 20px;
           text-transform: capitalize;
         }
@@ -315,5 +349,11 @@ h1, h2, h3 {
   .nav-toggle {
     z-index: 0;
     display: none;
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #logo {
+    background-image: url('/assets/images/logo@2x.jpg');
   }
 }

@@ -28,6 +28,17 @@
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 }
+
+/* Use the following CSS code if you want to have a class per icon */
+[class^="icon-"]:before, [class*=" icon-"]:before, [class^="icon-after-"]:after, [class*=" icon-after-"]:after {
+	font-family: 'icomoon';
+	font-style: normal;
+	speak: none;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
 .icon-droplet:before {
 	content: "\21";
 }
@@ -229,12 +240,16 @@
 .icon-arrow-down-alt1:before {
 	content: "\63";
 }
-.icon-arrow-right-alt1:before {
+.icon-arrow-right-alt1:before,
+.icon-after-arrow-right-alt1:after {
 	content: "\64";
 }
-.icon-arrow-left-alt1:before {
+
+.icon-arrow-left-alt1:before,
+.icon-after-arrow-left-alt1:after {
 	content: "\65";
 }
+
 .icon-cd:before {
 	content: "\66";
 }
