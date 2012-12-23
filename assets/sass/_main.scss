@@ -156,9 +156,21 @@ h1, h2, h3 {
         position: relative;
         z-index: 10;
       }
+      
+      h2, h1 {
+        &:before {
+          margin-top: 8px;
+          position: absolute;
+          font-size: 14px;
+          left: 0px;
+          color: $color-link-light;
+        }
+      }
     }
     
     .entry-content {
+      position: relative;
+
       h2, h3 {
         color: $color-header;
       }

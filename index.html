@@ -6,9 +6,9 @@ language: Swedish
 {% for post in paginator.posts  %}
   <article>
     <header {% if false and forloop.first and post.image != null and paginator.page == 1 %}class="with-image" style="background-image: url({{ post.image }});"{% endif %}>
-      <h2><a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2 {% if post.icon %} class="icon-{{ post.icon }}"{% endif %}><a title="Permalink to {{ post.title }}" rel="bookmark" href="{{ post.url }}">{{ post.title }}</a></h2>
     </header>
-    <div class="entry-content" {% if post.icon %}class="icon-{{ post.icon }}"{% endif %}>
+    <div class="entry-content">
       {{ post.description | markdownify }}
     </div>
   </article>
