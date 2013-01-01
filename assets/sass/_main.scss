@@ -67,7 +67,8 @@ h1, h2, h3 {
   
   /* Mobile */
   .wrapper {
-    max-width: 420px;
+    max-width: 768px;
+    width: 100%;
     margin:0 auto;
     position: relative;
   }
@@ -76,7 +77,7 @@ h1, h2, h3 {
     width: 100%;
     
     header, footer {
-      max-width: 420px;
+      max-width: 748px;
       margin:0 auto;
       position: relative;
       padding: 0;
@@ -303,11 +304,6 @@ h1, h2, h3 {
   }
   
   .hf-wrapper {
-    
-    header, 
-    footer {
-      max-width: 748px;
-    }
     
     header {
       
