@@ -1,6 +1,6 @@
 ---
 title: "Mot nya äventyr"
-description: "Har redan halvbokat två äventyr för våren 2013. [Fjällfest](http://www.fjallfest.se/) till våren, 4 dagar av spännande toppturer och föreläsningar. Lite senare på våren eller sommaren blir det också att paddla Blekinge-kusten."
+description: "Har redan halvbokat två äventyr för våren 2013. [Fjällfest](http://www.fjallfest.se/) i april, 4 dagar av spännande toppturer och föreläsningar. Lite senare framåt sommaren blir det också att paddla Blekinge-kusten."
 created_at: 2012-12-21 22:49
 published: true
 layout: post
