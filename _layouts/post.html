@@ -18,6 +18,9 @@ layout: application
     <div class="entry-content">
         <div class="intro">{{ page.description | escape | markdownify }}</div>
         {{ content }}
+        
+        <div id="disqus_show">Show comments for {{ page.title }} &raquo;</div>
+        <div id="disqus_thread"></div>
     </div>
 </article>
 <!-- /post -->
