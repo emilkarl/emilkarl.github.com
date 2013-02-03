@@ -297,6 +297,11 @@ h1, h2, h3 {
       color: $color-base-text;
     }
   }
+  
+
+  #disqus_thread {
+    margin-top: 80px;
+  }
 @media (min-width: 768px) {
   /* Mobile */
   .wrapper {
