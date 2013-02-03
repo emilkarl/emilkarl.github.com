@@ -4,8 +4,12 @@ layout: application
 
 <!-- page -->
 <article>
-    <header>
+    <header {% if page.image != null %}class="has-image"{% endif %}>
+        {% if page.image != null %}
+          <div class="image"><img src="{{ page.image }}"/></div>
+        {% endif %}
         <h1><a title="Permalink to {{ page.title }}" rel="bookmark" href="{{ page.url }}">{{ page.title }}</a></h1>
+        
     </header>
     <div class="entry-content">
         {{ content }}

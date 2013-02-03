@@ -3,10 +3,11 @@ layout: page
 title: "About me"
 description: ""
 permalink: "/about/index.html"
+image: "/assets/images/posts/emil.jpg"
 ---
 
 I'm a climbing web developer living in Linköping, Sweden. When I'm not at the office or visiting a 
-client I like to climb the cliffs around Linköping, mountain biking or watch the latest episode of _The Office_.
+client I like to climb the cliffs around Linköping, go for a hike or watch the latest episode of _The Office_.
 
 I'm a web developer at [Noc Webbyrå](http://nocweb.se) and do things like _Ruby on Rails_, _PHP_, _SQL_ and _HTML/CSS/JS_ and more. Even though I prefer working with *Ruby on Rails* I've done a number of projects in [Wordpress](http://wordpress.org) and [Drupal](http://drupal.org) during the last couple of years. 
 
