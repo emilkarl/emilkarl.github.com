@@ -7,20 +7,6 @@ permalink: "/todo/index.html"
 
 Here is my bucket list inspired by myself and others. I've completed <span class="bucket-items-completed">0</span> out of <span class="bucket-items-total">0</span> things until today.
 
-## Fitness & Training
-
-* Learn and practice Yoga at least twice a week
-* Run Björkliden Arctic Mountain Marathon (BAMM)
-* Fix my right elbow (Started December 19th, 2012 and will continue at least 12 weeks)
-
-## Climbing
-
-* Summit 5 Nordic peaks (1/5, Kebnekaise 2010)
-<li class="complete"> ~~Learn alpinism & summit a peak above 3000 meters~~ (July 2012 in Chamonix, France. Summitted 3 peaks above 3 500 meters in the Mont Blanc Massive. North and south summit of Pointse Lachenal and north summit of Aiguille de Tour)</li>
-* Summit Mont Blanc without guide
-* Climb a 7c line
-* Deep water solo climbing in Thailand
-
 ## Travel
 
 * Go on a backpacking trip to Thailand
@@ -46,3 +32,17 @@ Here is my bucket list inspired by myself and others. I've completed <span class
 * Read a book for more than 30 minutes a day for a month (I'm not a big reader...)
 * For one week, get up at least 2 hours before work
 * Skip alcohol for at least 6 months
+
+## Fitness & Training
+
+* Learn and practice Yoga at least twice a week
+* Run Björkliden Arctic Mountain Marathon (BAMM)
+* Fix my right elbow (Started December 19th, 2012 and will continue at least 12 weeks)
+
+## Climbing
+
+* Summit 5 Nordic peaks (1/5, Kebnekaise 2010)
+<li class="complete"> ~~Learn alpinism & summit a peak above 3000 meters~~ (July 2012 in Chamonix, France. Summitted 3 peaks above 3 500 meters in the Mont Blanc Massive. North and south summit of Pointse Lachenal and north summit of Aiguille de Tour)</li>
+* Summit Mont Blanc without guide
+* Climb a 7c line
+* Deep water solo climbing in Thailand
