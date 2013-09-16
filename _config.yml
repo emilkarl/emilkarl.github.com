@@ -1,6 +1,7 @@
 title: emilkarl.se
 description: This is my description
 markdown: rdiscount
+markdown_ext:  markdown,mdown,mkd,mkdn,md
 permalink: /:categories/:title/
 pygments: true
 lsi: false
