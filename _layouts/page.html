@@ -1,18 +1,32 @@
 ---
-layout: application
+layout: default
+post_class: post-template page-template
 ---
 
-<!-- page -->
-<article>
-    <header {% if page.image != null %}class="has-image"{% endif %}>
-        {% if page.image != null %}
-          <div class="image"><img src="{{ page.image }}"/></div>
-        {% endif %}
-        <h1><a title="Permalink to {{ page.title }}" rel="bookmark" href="{{ page.url }}">{{ page.title }}</a></h1>
-        
-    </header>
-    <div class="entry-content">
-        {{ content }}
-    </div>
-</article>
-<!-- /page -->
+<nav class="main-nav clearfix">
+    <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
+    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
+</nav>
+
+
+<main class="content" role="main">
+    <article class="post">
+        <!-- <header class="post-header">
+            <a id="blog-logo" href="{{site.baseurl}}">
+                {% if site.logo %}
+                    <img src="{{site.logo}}" alt="{{ site.name }}" />
+                {% else %}
+                    <span class="blog-title">{{ site.name }}</span>
+                {%endif%} 
+            </a>
+        </header> -->
+
+        <h1 class="post-title">{{ page.title }}</h1>
+
+        <section class="post-content">
+            {{content}}
+        </section>
+
+    </article>
+
+</main>

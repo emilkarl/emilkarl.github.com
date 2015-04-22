@@ -1,24 +1,15 @@
-title: emilkarl.se
-description: This is my description
-markdown: rdiscount
-markdown_ext:  markdown,mdown,mkd,mkdn,md
-permalink: /:categories/:title/
-pygments: true
-lsi: false
-paginate: 5
-exclude:
-   - Rakefile
-   - github/build.rb
-   - github/config.ru
-   - logs
+name: emilkarl
+description: making web and wooden things
+meta_description: "emilkarl - making wbe and wooding things"
 
-navigation:
-  - text: blog
-    url: /
-    path: /index.html
-  - text: about me
-    url: /about/
-    path: /about/index.html
-  - text: things to do
-    url: /todo/
-    path: /todo/index.html
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 1
+baseurl: /
+domain_name: 'emilkarl.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'http://emilkarl.github.io'
+author:         'Emil Karlsson'
