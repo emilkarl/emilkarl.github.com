@@ -1,0 +1,30 @@
+---
+title: "Going Point & Shoot"
+description: "During the last months I've used my Nikon D90 less and less. It's just to big and clunky to go with me every day and everywhere. To get more out of photography I feel that the more I shoot the more I improve and when the camera is left in the closet each day it's not doing any good. With a smaller camera that I can have with me every day comes more photo opportunities and also the habit of photograph."
+created_at: 2011-08-07 19:45
+published: true
+layout: post
+language: English
+categories : [photography]
+icon: camera
+---
+
+Even though I'm looking for a simpler, smaller and more convenient camera, I want as much flexibility from the DSLR 
+in my compact P&S. 
+Here is a list of features that I want/need (in prioritized order):
+
+
+#### Features
+
+- Manual controls
+- Fast aperture (<2.8)
+- Good in low light
+- RAW
+- Good looks
+- Small size & low weight
+
+
+### So what are the options
+
+After searching the discussion boards all around the web (Flickr, Photo.net, dpreview etc.) I've come down to a couple of
+choices in which I have to decide between. The obvious choice for some, _Panasonic Lumix LX5_, the more expensive _Leica D-Lux 5_, the little brother _Canon S95_ and the cheap outsider _Nikon P300_.
